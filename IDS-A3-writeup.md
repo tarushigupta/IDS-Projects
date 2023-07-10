@@ -1,6 +1,7 @@
 # Airline Delay Analysis
 
 Team members: tarushig@andrew.cmu.edu and sjethmal@andrew.cmu.edu
+<br>
 Online URL: https://cmu-ids-spring-2023-assignment-3-airline-delay.streamlit.app/
 
 ## Project Goals
