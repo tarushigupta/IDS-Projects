@@ -1,7 +1,7 @@
 # Airline Delay Analysis
 
-![A screenshot of your application. Could be a GIF.](Screenshot1.png)
-
+Team members: tarushig@andrew.cmu.edu and sjethmal@andrew.cmu.edu
+Online URL: https://cmu-ids-spring-2023-assignment-3-airline-delay.streamlit.app/
 
 ## Project Goals
 
@@ -38,8 +38,4 @@ Our team split the work into two main components. One team member focused on dev
 
 Our project addresses the goal of the project of providing the user with information about delay times across airports and airlines. American Airlines has had the highest delays over the past year, closely followed by SouthWest Airlines and Delta. Clearly, anyone flying via these flights should be aware of the delays they may experience. Passengers flying in and out of any of Chicago O’Hare International, Dallas/Fort Worth International Airport, Hartsfield-Jackson Atlanta International Airport or Denver International Airport can also expect high delays. 
 A personal success story for this project was the accomplishment of building an interactive web application for the visual exploration of data and learning a new tool to achieve the same. 
-
-
-Team members: tarushig@andrew.cmu.edu and sjethmal@andrew.cmu.edu
-Online URL: https://cmu-ids-spring-2023-assignment-3-airline-delay.streamlit.app/
 
